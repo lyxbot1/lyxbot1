@@ -1,0 +1,59 @@
+# Lyx
+
+**Tools for better Discord communities.**
+
+Lyx is a Discord bot platform built to make server management simpler through powerful moderation tools, automation, and an easy-to-use web dashboard.
+
+We’re building tools that help communities run smoothly without making server administration complicated.
+
+---
+
+### What we're building
+
+- **Moderation** — Manage your community with moderation commands and case tracking.
+- **Auto Moderation** — Configure automated protections against spam and unwanted content.
+- **Server Management** — Manage roles, welcome messages, and server logs.
+- **Web Dashboard** — Configure Lyx through a clean, centralized interface.
+- **Documentation** — Find guides, command references, and troubleshooting help.
+- **Developer Tools** — Build a reliable foundation for future Lyx integrations and APIs.
+
+### Explore Lyx
+
+| Resource | Description |
+|---|---|
+| [Website](https://lyx.lol) | Learn about Lyx and its features |
+| [Dashboard](https://lyx.lol/dashboard) | Manage your Discord servers |
+| [Documentation](https://help.lyx.lol) | Guides, commands, and support information |
+| [API](https://api.lyx.lol) | Lyx API endpoint |
+
+### Technology
+
+Our projects use modern web technologies and infrastructure, including:
+
+- JavaScript
+- Discord.js
+- Node.js
+- Next.js
+- Supabase
+- Cloudflare
+
+Technology choices may vary between individual projects.
+
+### Our approach
+
+We believe server management should be powerful without being unnecessarily complicated.
+
+We focus on practical features, reliable infrastructure, thoughtful design, and tools that are easy for community owners and moderators to use.
+
+### Get involved
+
+Have an idea, found an issue, or want to contribute?
+
+- Visit our [website](https://lyx.lol).
+- Read the [documentation](https://help.lyx.lol).
+- Join our Discord community: **[Add your support server link here]**.
+- Explore our public repositories and open issues.
+
+---
+
+<sub>Lyx — Built for communities.</sub>
